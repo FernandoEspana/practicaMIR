@@ -63,7 +63,7 @@ class Form extends React.Component {
                 </fieldset>
                 <fieldset>
                     <button type="submit"> Iniciar Sesion </button>
-                    <button type="button"> Canceler</button>
+                    <button type="button"> Cancelar</button>
                     <button type="button"> Registrate</button>
                 </fieldset>
                 <fieldset>
